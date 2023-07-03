@@ -1,0 +1,51 @@
+ div {
+            width: auto;
+        }
+
+        #introduce,
+        #introduce1,
+        #introduce3 {
+            position: relative;
+            width: 1000px;
+            margin: 0 auto;
+        }
+
+        #img1,
+        #img3 {
+            float: left;
+            margin-right: 20px;
+            width: 500px;
+            height: 500px;
+        }
+
+        #img2 {
+            float: right;
+            margin-left: 20px;
+            width: 500px;
+            height: 500px;
+        }
+
+        p {
+            font-size: 20px;
+            word-break: break-all;
+        }
+
+        #introduce_main {
+            position: relative;
+            width: 1000px;
+            margin: 0 auto;
+            margin-top: 30px;
+        }
+
+        #introduce_main>b {
+            font-size: 35px;
+            font-weight: 900;
+
+        }
+
+        #introduce>b,
+        #introduce1>b,
+        #introduce3>b {
+            font-size: 25px;
+            font-weight: 900;
+        }
